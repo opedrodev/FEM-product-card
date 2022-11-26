@@ -115,12 +115,6 @@ body {
   background-color: hsl(158, 36%, 25%);
 }
 
-.attribution {
-  font-size: 1.2rem;
-  text-align: center;
-  margin-top: 3.2rem;
-}
-
 .mobile {
   display: none;
 }
